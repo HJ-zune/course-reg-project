@@ -141,7 +141,7 @@ The application uses SQLite for data storage. The database file `course_registra
 ## Project Structure
 
 ```
-jiho-shenanigans/
+course-reg-project/
 ├── main.py              # Main GUI application
 ├── database.py          # Database operations and models
 ├── requirements.txt     # Project requirements
