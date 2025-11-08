@@ -42,7 +42,7 @@ python --version
 
 3. Navigate to the project directory:
 ```bash
-cd jiho-shenanigans
+cd course-reg-project
 ```
 
 ## Usage
