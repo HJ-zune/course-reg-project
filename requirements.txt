@@ -1,0 +1,8 @@
+# Course Registration System Requirements
+# Python 3.7+
+
+# No external packages required - uses only Python standard library:
+# - tkinter (GUI framework - included with Python)
+# - sqlite3 (database - included with Python)
+# - dataclasses (included with Python 3.7+)
+
